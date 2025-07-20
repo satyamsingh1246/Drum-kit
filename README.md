@@ -3,7 +3,7 @@
 An interactive drum kit web app built using **HTML**, **CSS**, and **JavaScript**.  
 Play real drum sounds using keyboard keys or by clicking the drum buttons. Ideal for music lovers and beginner developers exploring DOM interaction and audio APIs.
 
-🔗 **Live Demo:** [drum-kit.vercel.app](https://vercel.com/satyamsingh1246s-projects/drum-kit)
+🔗 **Live Demo:** [drum-kit-rho-navy.vercel.app](https://drum-kit-rho-navy.vercel.app/)
 
 ---
 
